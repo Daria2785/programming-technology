@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="war1.txt" />
+  </Folder>
+  <Project Path="лб1/лб1.vcxproj" Id="eddd0a0c-fe38-4b8b-aef4-7ccf7a7c0902" />
+</Solution>
